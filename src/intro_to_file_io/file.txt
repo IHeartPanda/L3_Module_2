@@ -1,4 +1,1 @@
-wassup
-hello
-mr
-dave
+this is a file
